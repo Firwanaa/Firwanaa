@@ -13,7 +13,7 @@ I'm Alqassam Firwana an Aspiring Software Engineer and an Arch Linux user, btw. 
 - 🤔 I’m looking for Co-op/work or any outstanding projects.
 - 📫 How to reach me: firwanaa@sheridancollege.ca.
 - 😄 Pronoun: firwanaa.
-- ⚡ Fun fact: I play games and workout every other day.
+- ⚡ Fun fact: I play games and workout every other day<span style="color:#9ea4ad;">//almost</span>
 
 #### Top Technologies <span style="color:#9ea4ad;">//at different levels</span>
 
