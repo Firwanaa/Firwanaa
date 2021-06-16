@@ -8,7 +8,7 @@ I'm Alqassam Firwana an Aspiring Software Engineer and an Arch Linux user, btw :
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studing software dev @Sheridancollege.ca
+- 🔭 I’m currently studying software dev @Sheridancollege.ca
 - :computer: Most used line of code `for(int i=0; i<n; i++){you.smile()}`
 - 🤔 I’m looking for Co-op/work or any outstanding projects.
 - 📫 How to reach me: firwanaa@sheridancollege.ca.
