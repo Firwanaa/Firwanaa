@@ -27,11 +27,6 @@ I'm Alqassam Firwana an Aspiring Software Engineer and an Arch Linux user, btw :
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](#)
-
-
-
-#### Currently studing @school <span style="color:#9ea4ad;">//trying my best</span>
-
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](#)
