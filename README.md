@@ -15,7 +15,7 @@ I'm Alqassam Firwana an Aspiring Software Engineer. I Spend most of time coding 
 - 😄 Pronoun: firwanaa.
 - ⚡ Fun fact: I play games and workout every other day. <span style="color:#9ea4ad;">//almost</span>
 - 🌱 Currently learning Rust and exploring Scala. 
-- 💬 Ask me about: Spring Boot, Angular, Data structure in C.
+- 💬 Ask me about: Spring Boot, Angular.
 #### Top Technologies <span style="color:#9ea4ad;">//at different levels</span>
 
 <!-- TODO: Make technologies links takes you to repositories -->
