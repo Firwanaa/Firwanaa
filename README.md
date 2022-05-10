@@ -12,7 +12,6 @@ I'm Alqassam Firwana an Aspiring Software Engineer. I Spend most of time coding 
 - :computer: Most used line of code `for(int i=0; i<n; i++){you.smile()}`
 - 🤔 I’m looking for Co-op/work or any outstanding projects.
 - 📫 How to reach me: firwanaa@sheridancollege.ca.
-- 😄 Pronoun: firwanaa.
 - ⚡ Fun fact: I play games and workout every other day. <span style="color:#9ea4ad;">//almost</span>
 - 🌱 Currently learning Rust and exploring Scala. 
 
